@@ -1,0 +1,137 @@
+/* Setting */
+div {
+    position: relative;
+    width: 1439px;
+    height: 787px;
+    background: #FFFFFF;
+  }
+  
+  /* Rectangle 3 */
+  div > div:nth-child(1) {
+    position: absolute;
+    width: 1439px;
+    height: 90px;
+    left: 0px;
+    top: 0px;
+    background: #D9D9D9;
+    border-radius: 10px;
+  }
+  
+  /* WhatsApp_Image_2023-11-02_at_10.08 2 */
+  div > div:nth-child(2) {
+    position: absolute;
+    width: 99px;
+    height: 87px;
+    left: 304px;
+    top: 6px;
+    background: url(WhatsApp_Image_2023-11-02_at_10.08.png);
+  }
+  
+  /* WhatsApp_Image_2023-11-02_at_10.09 3 */
+  div > div:nth-child(3) {
+    position: absolute;
+    width: 101px;
+    height: 66px;
+    left: 680px;
+    top: 19px;
+    background: url(WhatsApp_Image_2023-11-02_at_10.09.png);
+  }
+  
+  /* WhatsApp_Image_2023-11-02_at_10.10 2 */
+  div > div:nth-child(4) {
+    position: absolute;
+    width: 84px;
+    height: 70px;
+    left: 1088px;
+    top: 15px;
+    background: url(WhatsApp_Image_2023-11-02_at_10.10.png);
+  }
+  
+  /* 6022d265-a900-4d6b-b977-41eb696ba841 1 */
+  div > div:nth-child(5) {
+    position: absolute;
+    width: 1492px;
+    height: 687px;
+    left: -26px;
+    top: 100px;
+    background: url(6022d265-a900-4d6b-b977-41eb696ba841.jpg);
+  }
+  
+  /* Profile */
+  div > div:nth-child(6) {
+    position: absolute;
+    width: 103px;
+    height: 37px;
+    left: 837px;
+    top: 394px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 38px;
+    color: #000000;
+  }
+  
+  /* Rectangle 6 */
+  div > div:nth-child(7) {
+    position: absolute;
+    width: 489px;
+    height: 100px;
+    left: 481px;
+    top: 93px;
+    background: #FFA14A;
+    border-radius: 10px;
+  }
+  
+  /* Setting */
+  div > div:nth-child(8) {
+    position: absolute;
+    width: 124px;
+    height: 54px;
+    left: 664px;
+    top: 119px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 160%;
+    letter-spacing: 0.15px;
+    color: #FFFFFF;
+  }
+  
+  /* WhatsApp_Image_2023-11-02_at_11.27 2 */
+  div > div:nth-child(9) {
+    position: absolute;
+    width: 172px;
+    height: 155px;
+    left: 499px;
+    top: 337px;
+    background: url(WhatsApp_Image_2023-11-02_at_11.27.png);
+  }
+  
+  /* Rectangle 22 */
+  div > div:nth-child(10) {
+    position: absolute;
+    width: 233px;
+    height: 46px;
+    left: 604px;
+    top: 640px;
+    background: rgba(252, 9, 9, 0.8);
+    border-radius: 10px;
+  }
+  
+  /* Log out */
+  div > div:nth-child(11) {
+    position: absolute;
+    width: 85px;
+    height: 32px;
+    left: 679px;
+    top: 646px;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 32px;
+    color: #000000;
+  }
+  
